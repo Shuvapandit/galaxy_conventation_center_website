@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+
+}
+/* package hover part*/
+.crd3:hover
+{
+    background-color: #24A19C;
+    
+    color: #F4F4F2;
+    transform: scale(1.1);
+}
+
+
+
+
